@@ -82,4 +82,4 @@ Block YouTube, and you open Reddit. Block Reddit, and you check email. Blocklist
 
 Found a bug or have a feature request? Please [open an issue](https://github.com/yourarnav/vow/issues) on GitHub.
 
-For order or license support, contact: **yourarnav@gmail.com**
+For order or license support, contact: **heycalibrestudio@gmail.com**
