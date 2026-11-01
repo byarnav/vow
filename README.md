@@ -10,7 +10,7 @@ Lock your Mac offline on a timer. No browser extensions, no bypassable blocklist
 
 <br />
 
-<a href="https://github.com/yourarnav/offline-lock-releases/releases/download/v1.0.7/Vow-1.0.7.dmg">
+<a href="https://github.com/yourarnav/vow/releases/download/v1.0.7/Vow-1.0.7.dmg">
   <img src="https://img.shields.io/badge/Download_Free_Trial-Vow--1.0.7.dmg-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Download Free Trial" />
 </a>
 &nbsp;
@@ -20,7 +20,7 @@ Lock your Mac offline on a timer. No browser extensions, no bypassable blocklist
 
 <br /><br />
 
-[Download Free Trial (3 Sessions)](https://github.com/yourarnav/offline-lock-releases/releases/download/v1.0.7/Vow-1.0.7.dmg) &nbsp;•&nbsp; [Purchase License ($9.99)](https://calibrestudio.gumroad.com/l/vow) &nbsp;•&nbsp; [Report an Issue](https://github.com/yourarnav/vow/issues)
+[Download Free Trial (3 Sessions)](https://github.com/yourarnav/vow/releases/download/v1.0.7/Vow-1.0.7.dmg) &nbsp;•&nbsp; [Purchase License ($9.99)](https://calibrestudio.gumroad.com/l/vow) &nbsp;•&nbsp; [Report an Issue](https://github.com/yourarnav/vow/issues)
 
 </div>
 
@@ -35,6 +35,12 @@ Block YouTube, and you open Reddit. Block Reddit, and you check email. Blocklist
 ---
 
 ## Key Features
+
+<div align="center">
+  <img src="assets/cooldown-preview.png" alt="15-Minute Cooldown & Safe Session Start" width="100%" />
+</div>
+
+<br />
 
 - **Survives Reboots:** Powered by a privileged `SMAppService` root LaunchDaemon. Quitting the app or rebooting your Mac will not restore the internet.
 - **15-Minute Cooldown:** No instant cancel button. If an urgent task arrives, you must request an early unlock and wait out a mandatory 15-minute countdown. This completely eliminates impulsive quitting.
