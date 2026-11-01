@@ -58,8 +58,8 @@ Block YouTube, and you open Reddit. Block Reddit, and you check email. Blocklist
 
 ## System Requirements
 
-- **OS:** macOS 26.0 or later (macOS Tahoe)
-- **Architecture:** Apple Silicon (M1, M2, M3, M4)
+- **OS:** macOS 26.0 or later (including macOS 27+)
+- **Architecture:** Apple Silicon (all M-series Macs)
 - **Permissions:** Administrator password (one-time prompt to register the privileged helper)
 
 ---
