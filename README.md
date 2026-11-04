@@ -40,7 +40,7 @@ Vow cuts network access at the system level for the exact duration you set. When
 
 For trial downloads, documentation, purchasing, and support, please visit:
 
-👉 **[vow.byarnav.com](https://vow.byarnav.com)**
+ **[vow.byarnav.com](https://vow.byarnav.com)**
 
 ---
 
