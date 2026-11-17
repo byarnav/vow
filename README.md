@@ -8,17 +8,17 @@ Lock your Mac offline on a timer. Pure native Swift, system-level enforcement, a
 
 <br />
 
-<a href="https://vow.byarnav.com">
+<a href="https://vow.byarnav.com/">
   <img src="https://img.shields.io/badge/Official_Website-vow.byarnav.com-0B0B0C?style=for-the-badge" alt="Official Website" />
 </a>
 &nbsp;
-<a href="https://byarnav.com">
-  <img src="https://img.shields.io/badge/Atelier-byArnav.com-0B0B0C?style=for-the-badge" alt="byArnav Atelier" />
+<a href="https://byarnav.com/">
+  <img src="https://img.shields.io/badge/Studio-byArnav.com-0B0B0C?style=for-the-badge" alt="byArnav Studio" />
 </a>
 
 <br /><br />
 
-[Explore Vow & Download](https://vow.byarnav.com) &nbsp;•&nbsp; [byArnav Atelier](https://byarnav.com) &nbsp;•&nbsp; [Support](mailto:support@byarnav.com)
+[Explore Vow & Download](https://vow.byarnav.com/) &nbsp;•&nbsp; [byArnav](https://byarnav.com/) &nbsp;•&nbsp; [Support](mailto:support@byarnav.com)
 
 </div>
 
@@ -40,10 +40,10 @@ Vow cuts network access at the system level for the exact duration you set. When
 
 For trial downloads, documentation, purchasing, and support, please visit:
 
- **[vow.byarnav.com](https://vow.byarnav.com)**
+ **[vow.byarnav.com](https://vow.byarnav.com/)**
 
 ---
 
 <div align="center">
-  <sub>Instrument No. 01 &middot; Crafted by <a href="https://byarnav.com">byArnav</a> &middot; Inquiries: <a href="mailto:support@byarnav.com">support@byarnav.com</a></sub>
+  <sub>Crafted by <a href="https://byarnav.com/">byArnav</a> &middot; Inquiries: <a href="mailto:support@byarnav.com">support@byarnav.com</a></sub>
 </div>
