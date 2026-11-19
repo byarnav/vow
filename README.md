@@ -36,6 +36,21 @@ Vow cuts network access at the system level for the exact duration you set. When
 
 ---
 
+### Installation
+
+#### Via Homebrew
+
+```bash
+brew tap yourarnav/tap
+brew install --cask vow
+```
+
+#### Direct Download
+
+Download the notarized disk image directly from **[vow.byarnav.com](https://vow.byarnav.com/)** or grab the latest DMG from the [Releases](https://github.com/byarnav/vow/releases) section.
+
+---
+
 ### Official Website & Download
 
 For trial downloads, documentation, purchasing, and support, please visit:
