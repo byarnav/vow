@@ -51,6 +51,18 @@ Download the notarized disk image directly from **[vow.byarnav.com](https://vow.
 
 ---
 
+### Guides & Comparisons
+
+* [How to block the internet on a Mac](https://vow.byarnav.com/block-internet-on-mac/)
+* [Vow vs SelfControl](https://vow.byarnav.com/selfcontrol-alternative/)
+* [Vow vs Cold Turkey](https://vow.byarnav.com/cold-turkey-alternative/)
+* [Vow vs Freedom](https://vow.byarnav.com/freedom-alternative/)
+* [Free internet blockers for Mac](https://vow.byarnav.com/free-internet-blocker-mac/)
+* [ADHD focus on a Mac](https://vow.byarnav.com/adhd-focus-mac/)
+* [Changelog](https://vow.byarnav.com/changelog/)
+
+---
+
 ### Official Website & Download
 
 For trial downloads, documentation, purchasing, and support, please visit:
